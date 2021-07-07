@@ -1,0 +1,13 @@
+This is a Serenity Framework with Cucumber BDD, Selenium, Sikuli 
+
+Use below Maven command to run test:-
+
+To run in Chrome browser & QA environment:
+mvn clean verify -Dwebdriver.driver=chrome -Denvironment=qa
+
+To run in Chrome browser (Headless mode) & QA environment:
+mvn test -Dbrowser=chromeheadless -Denv=qa -Dcucumber.options="--tags <tag_name>"
+mvn clean verify -Dbrowser=chromeheadless -Denvironment=qa
+
+To run in Firefox browser & Dev environment:
+mvn clean verify -Dwebdriver.driver=firefox -Denvironment=qa

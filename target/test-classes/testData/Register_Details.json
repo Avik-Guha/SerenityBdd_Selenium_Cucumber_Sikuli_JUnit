@@ -1,0 +1,6 @@
+{
+	"FirstName": "Avik",
+	"Last_Name": "Guha",
+	"Password_minimum_length": 6,
+	"Country": ["Afghanistan", "Australia", "India", "Brazil", "China", "Zambia"]
+}
