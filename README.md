@@ -1,4 +1,4 @@
-# Protractor_TypeScript_Cucumber_Bdd
+# SerenityBdd_Selenium_Cucumber_Sikuli_JUnit
 
 This is an Web Automation Testing framework using:
 
