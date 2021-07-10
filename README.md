@@ -16,6 +16,7 @@ Prerequisite:
 
 	Java
 	Editor
+	Maven
 
 Extensions in VS Code:
 
