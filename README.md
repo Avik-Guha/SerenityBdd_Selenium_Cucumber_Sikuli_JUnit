@@ -1,4 +1,4 @@
-# SerenityBdd_Selenium_Cucumber_Sikuli_JUnit
+# Serenity_Selenium_Cucumber_BDD_Sikuli_JUnit
 
 This is an Web Automation Testing framework using:
 
