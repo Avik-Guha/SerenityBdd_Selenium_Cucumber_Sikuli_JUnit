@@ -9,6 +9,7 @@ This is an Web Automation Testing framework using:
 	Sikuli
 	Maven
 	JUnit
+	Page Object Model
 
 ## Installation
 
